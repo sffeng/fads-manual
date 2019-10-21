@@ -1,6 +1,3 @@
-# FADS Research Group Manual
-Manual for students, research staff, and trainees in Samuel Feng's research group.
-
 # Hello!
 It looks like you have joined (my) Sam Feng's FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). 
 
