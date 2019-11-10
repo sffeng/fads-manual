@@ -1,0 +1,53 @@
+---
+title: "The FADS manual"
+author: "Dr. Samuel Feng"
+date: "November 10, 2019"
+output: pdf_document
+---
+
+# Welcome to FADS
+It looks like you have joined (or might join) the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I (Dr. Samuel Feng) am writing this manual to provide some expectations and important information for anyone getting started.
+
+This manual is patterned after [Mariam Aly's lab manual](https://github.com/alylab/labmanual) after I read [this inspiring article](https://doi.org/10.1038/d41586-018-06167-w). 
+
+**Starting Jan 1, 2020, all FADS members need to have signed and uploaded the FADS Manual Agreement to**
+
+
+
+# Expectations and responsibilities
+
+## Everyone
+
+Applied mathematicians often deal with frustrations. From many angles. You'll be one figure away from a paper for months. It might seem like nobody else in the world (even me) understands the struggles of your work. At the same time, research in the mathematical sciences is one of the most rewarding and fulfilling activities out there. 
+
+Team FADS wants everyone to have a positive, supportive, hostility-free, challenging, and rewarding environment. To this end, everyone is expected to:
+
+ - Work on what you are passionate about. Or at least work on developing that passion. 
+ - Be proud of your work. Let your "light" shine through your work, don't cover it up. So often KU students want to suppress  themselves up (e.g. "I'm not good enough" or "My work will bring others down"). This is not humility, it is self-condemnation! A little boasting is OK.
+ - Enjoy and celebrate each others' success. We are not in competition with each other, and one member's success is the group's success.
+ - Work steadily, don't rush. Good science/mathematics/statistics requires *careful* progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. Mistakes are ok, except those due to rushing and carelessness. Dr. Sam struggles especially with this.
+ - Own your mistakes. If you make a mistake, immediately alert anyone who could be affected. Especially if we are already writing the paper. We'll correct the mistake, and the work moves on.
+ - Own misunderstandings or knowledge gaps. If you don't know something, ask! Some of the worst situations come from a student pretending to know something they don't.
+ - No academic misconduct. We all want to publish amazing papers and do amazing things, but this is worthless if accomplished through unethical means: plagiarism, tampering with data, making up data, omitting results, or fudging results. Science is about discovering truth, and mathematical scientists are especially responsible for pursuing truth without compromise.
+ - Support each other. Listen to someone vent. Ask someone to look at your code. We will accomplish more, both individually and corporately, if we help each other consistently. Research is collaborative, not competitive.
+ - Respect your fellow FADS team members. Everyone has strengths and weaknesses. Respect their culture, religion, and habits. Sarcasm, pranks/making fun, and "playful banter" are usually not a good thing (there are much better ways to enjoy humor with each other).
+
+## Samuel Feng (Principal Investigator)
+
+## Undergraduate Students
+
+# Code of conduct
+
+# FADS resources
+
+## Email
+This is always the most direct way to contact me -- I keep my email from here to avoid spam.
+
+## Slack
+[Slack](https://fads-hq.slack.com) is the primary means of communication between FADS members.
+
+## Wiki
+
+# Other ppolitices
+
+# Funding
