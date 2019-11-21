@@ -7,11 +7,11 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Dr. Samuel Feng" />
 
-<meta name="date" content="2019-11-10" />
 
 <title>The FADS manual</title>
 
@@ -1541,7 +1541,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -1615,18 +1614,6 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -1648,43 +1635,39 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">The FADS manual</h1>
 <h4 class="author">Dr. Samuel Feng</h4>
-<h4 class="date">November 10, 2019</h4>
 
 </div>
 
 
-<div id="welcome-to-fads" class="section level1">
-<h1>Welcome to FADS</h1>
-<p>Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I’m Samuel Feng, and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain throughout your academic journey.</p>
+<p>Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I’m Dr. Samuel Feng, and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your academic journey.</p>
 <p>This manual is modeled after <a href="https://github.com/alylab/labmanual">Mariam Aly’s lab manual</a> after I read <a href="https://doi.org/10.1038/d41586-018-06167-w">this inspiring article</a>.</p>
-<p><strong>Starting Jan 1, 2020, all FADS members need to have printed and signed the FADS agreement</strong></p>
-</div>
+<p><em>Starting Jan 1, 2020, all FADS members need to have printed and signed the FADS agreement</em></p>
 <div id="fads-principles-expecations-and-responsibilities" class="section level1">
-<h1>FADS principles, expecations, and responsibilities</h1>
-<div id="everyone" class="section level2">
-<h2>Everyone</h2>
+<h1><strong>FADS principles, expecations, and responsibilities</strong></h1>
+<div id="all-members" class="section level2">
+<h2><strong>All members</strong></h2>
 <p>Applied mathematicians often deal with frustrations. From many angles. You’ll be one figure away from a paper for months. It might seem like nobody else in the world (even me) understands the struggles of your work. At the same time, our research can be one of the most fulfilling activities you’ll ever do.</p>
 <div id="one-principle-to-rule-them-all" class="section level3">
 <h3><em>One principle to rule them all</em></h3>
 <p>Team FADS wants everyone to have a positive, supportive, hostility-free, challenging, and rewarding environment. To this end, there is one main rule:</p>
 <ul>
-<li><strong>Work with integrity.</strong> We all want to publish amazing papers and do amazing things, but this is worthless if accomplished through unethical means: plagiarism, tampering with data, making up data, omitting results, or fudging results. Science is about discovering truth, and mathematical scientists are especially responsible for pursuing truth without compromise. There are no second chances in academia when it comes to academic misconduct, and any will result in immediate termination from FADS and escalation to the relevant authorities. Some other items on this list can be bent or broken, but this is the one rule that you can <em>never</em> break.</li>
+<li><strong>Work with integrity.</strong> We all want to publish and do amazing things, but this is worthless if accomplished via plagiarism, data tampering, faking data, omitting results, fudging results, or any other unethical means. Science and mathematics are about discovering truth, and mathematical scientists are held to an especially high standard. FADS gives no second chances here. Any academic misconduct or unethical behavior will result in immediate termination from FADS and escalation to the relevant authorities.</li>
 </ul>
 </div>
 <div id="other-major-principles" class="section level3">
 <h3><em>Other major principles</em></h3>
 <p>After this rule come a set of important rules for all FADS members:</p>
 <ul>
-<li><strong>Work passionately.</strong> That is, Work on what you are passionate about, or at least work on developing that passion.</li>
-<li><strong>Let your work and ideas shine.</strong> Too many KU students want to suppress themselves (e.g. “I’m not good enough” or “My work will bring others down”). This is self-condemnation, not humility. Be proud of your work (some boasting is OK).</li>
+<li><strong>Work passionately.</strong> Work on what you are passionate about, or at least work on developing that passion.</li>
+<li><strong>Shine.</strong> Too many KU students want to suppress themselves (e.g. “I’m not good enough” or “My work will bring others down”). This is self-condemnation, not humility. Be proud of your work (some boasting is OK).</li>
 <li><strong>Celebrate each others’ success.</strong> Don’t be jealous when someone else is proud of their work, but be proud that they are proud! We are not in competition with each other, and one member’s success is the group’s success.</li>
-<li><strong>Don’t rush.</strong> Dr. Sam struggles with this. Good science/mathematics/statistics requires <em>careful</em> progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren’t behaving properly. Mistakes are ok, except those due to rushing and carelessness. This usually means to <em>not put things off until the last minute</em>.</li>
+<li><strong>Don’t rush, work carefully.</strong> Dr. Sam struggles with this. Good science/mathematics/statistics requires <em>careful</em> progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren’t behaving properly. Mistakes are ok, except those due to rushing and carelessness. This usually means to <em>not put things off until the last minute</em>.</li>
 <li><strong>Own your mistakes.</strong> If you make a mistake, immediately alert anyone who could be affected (collaborators and Dr. Sam). This is especially important if we are already writing the paper. We’ll correct the mistake, and the work moves on.</li>
 <li><strong>Acknowledge knowledge gaps.</strong> If you don’t know something, ask! Some of the worst situations come from a student pretending to know something they don’t. Nobody’s education is perfect, and the vast majority of what you learn in formal education is re-learned during the research process. Also check the FADS wiki for FAQ and relevant resources.</li>
 <li><strong>Support each other.</strong> Listen to someone vent. Ask someone to look at your code. Research is collaborative, not competitive.</li>
 <li><strong>Respect your fellow FADS team members.</strong> Everyone has strengths and weaknesses. Respect their culture, religion, and habits. They may need you to be quiet.Sarcasm, pranks, making fun, and “playful banter” are usually not a good thing (there are much better ways to enjoy humor with each other).</li>
 <li><strong>Do not hide tension or hostility.</strong> Something must be done immediately. Intellectual research cannot thrive in the presence of disrespect and rudeness. This won’t always result in a “happy solution for everyone” but it is preferable to bullying or seething.</li>
-<li><strong>Tell Sam issues you have with him.</strong> The previous point applies especially with Dr. Sam.</li>
+<li><strong>Tell Sam issues you have with him.</strong> The previous point applies especially towards Dr. Sam. If I am mistreating you or being rude to you, let me know, and I will need to get better.</li>
 <li><strong>Read the scientific literature.</strong> When you start I’ll try to have all members reading at least one paper, but eventually you’ll want to keep up to date yourself.</li>
 <li><strong>Take care of your life outside of work.</strong></li>
 </ul>
@@ -1698,17 +1681,48 @@ $(document).ready(function () {
 </div>
 </div>
 <div id="samuel-feng-principal-investigator" class="section level2">
-<h2>Samuel Feng (Principal Investigator)</h2>
+<h2><strong>Samuel Feng (Principal Investigator)</strong></h2>
+<p>In addition to the above, I promise to:</p>
+<ul>
+<li><strong>Support you.</strong> This means caring for your mental, physical, and emotional well being.</li>
+<li><strong>Give you feedback on a timely basis.</strong> This includes feedback on project ideas, conference papers/posters, talks, manuscripts, etc.</li>
+<li><strong>Be available.</strong> I should be reachable during working hours, and I will not hide when I am or am not reachable. This availability may be over Slack, email, or in-person.</li>
+<li>**Provide motivation/context for your work.* I will always do my best to answer “Why are we doing this?” It should be very rare that I answer with “because I say so.”</li>
+<li><strong>Write for you.</strong> This includes writing formal letters of recommendation for internships/graduate school, or email recommendations to potential employers. I will be willing to put in writing why I have chosen to work with you.</li>
+<li><strong>Promote your work.</strong> I will try to promote your work among at talks, conferences, and in discussions with colleauges.</li>
+<li><strong>Empathize with your bigger picture.</strong> I will understand that not all of you want to pursue careers in academia, and I will try to understand where you want to go in life and how your time in FADS can help you get there.</li>
+</ul>
+</div>
+<div id="research-assistants" class="section level2">
+<h2><strong>Research Assistants</strong></h2>
+<p>In addition to the above (“All members”), you are expected to:</p>
+<ul>
+<li><strong>Work on your own research project</strong>. You’ll develop this with Sam’s guidance over your first few months in FADS.</li>
+<li><strong>Maintain FADS workstations.</strong> This means keeping the software up-to-date, fixing any system crashes, making sure users have accounts, and ensuring appropriate backups are made.</li>
+<li><strong>Maintain FADS OSF.</strong> Adding FADS members and keeping contributors organized. Aid other FADS members in uploading their work to OSF.</li>
+<li><strong>Work “regular” hours.</strong> More than other FADS members, your regular presence and availability is essential in case something is wrong (e.g. the rstudio server breaks).</li>
+<li><strong>Let me know when you are gone.</strong> It is encouraged to take days off, just let me know through the ADERP Leave Management system. If you are sick, submit the leave request after you are well. We do need to use the ADERP system because that is how HR tracks everything. For help on how to submit a request, see the FADS Wiki FAQ. If you are taking an extended break (3 or more days), please submit the ADERP request at least a week in advance (preferably a month in advance) so we can plan for your absence.</li>
+</ul>
 </div>
 <div id="undergraduate-students" class="section level2">
-<h2>Undergraduate Students</h2>
+<h2><strong>Undergraduate Students</strong></h2>
+<p>Most likely you are doing your senior MATH research project with me. In addition to the above (“All members”), you will also be expected to:</p>
+<ul>
+<li><strong>Assist other members in FADS procedures.</strong> This means helping others with the procedures for Senior Research Project, creating an OSF account, etc. This can also be done alongside the RAs.</li>
+<li><strong>Follow the official MATH Senior Research Project procedures.</strong> I won’t write these here since they are always changing, but you are expected to fulfill all of the MATH Senior Research Project requirements, including the 1st semester report, final report, and final presentation.</li>
+<li><strong>Work full time during the summer.</strong> This only applies if you are doing internship with me. This will be full time, on-campus working hours, to be clearly specified with me on a case-by-case basis.</li>
+</ul>
 </div>
 </div>
 <div id="code-of-conduct" class="section level1">
-<h1>Code of conduct</h1>
+<h1><strong>Code of conduct</strong></h1>
+<ul>
+<li>If you notice someone being harassed (or are harassed yourself), tell Sam immediately. If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).</li>
+<li>Only take photos or videos of other members with their explicit knowledge and consent. This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, with worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others’ privacy.</li>
+</ul>
 </div>
-<div id="fads-resources" class="section level1">
-<h1>FADS resources</h1>
+<div id="communication-and-fads-resources" class="section level1">
+<h1>Communication and FADS resources</h1>
 <div id="email" class="section level2">
 <h2>Email</h2>
 <p>This is always the most direct way to contact me – I keep my email from here to avoid spam.</p>
@@ -1721,8 +1735,8 @@ $(document).ready(function () {
 <h2>Wiki</h2>
 </div>
 </div>
-<div id="other-ppolitices" class="section level1">
-<h1>Other ppolitices</h1>
+<div id="other-policies" class="section level1">
+<h1>Other policies</h1>
 </div>
 <div id="funding" class="section level1">
 <h1>Funding</h1>
@@ -1745,6 +1759,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
