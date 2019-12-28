@@ -4,13 +4,14 @@ author: "Dr. Samuel Feng"
 output:
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I'm Dr. Samuel Feng, and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your academic journey.
 
 This manual is modeled after [Mariam Aly's lab manual](https://github.com/alylab/labmanual) after I read [this inspiring article](https://doi.org/10.1038/d41586-018-06167-w). 
 
-*Starting Jan 1, 2020, all FADS members need to have printed and signed the FADS agreement*
+*Starting Jan 31, 2020, all FADS members need to have printed and signed the FADS agreement*
 
 # **FADS principles, expecations, and responsibilities**
 
