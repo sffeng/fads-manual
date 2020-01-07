@@ -1,11 +1,11 @@
 ---
 title: "*The FADS manual*"
 author: "Dr. Samuel Feng"
-date: "`r Sys.Date()`"
+date: "Version: `r Sys.Date()`"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I'm Dr. Samuel Feng, and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your academic journey.
@@ -79,8 +79,8 @@ Most likely you are doing your senior MATH research project with me. In addition
 
 # **Code of conduct**
 
- - If you notice someone being harassed (or are harassed yourself), tell Sam immediately. If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).
- - Only take photos or videos of other members with their explicit knowledge and consent. This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, with worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others' privacy.
+ - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).
+ - **Only take photos or videos of other members with their explicit knowledge and consent.** This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, with worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others' privacy.
 
 # **Communication and FADS resources**
 
@@ -107,23 +107,26 @@ If you need a letter, message Dr. Sam as soon as possible with the deadline, you
 
 *Recommendation letter confidentiality.*  In the USA, students typically cannot view their own letters of recommendation. This allows the letter author to write more openly and honestly about the student, which also allows for stronger, more specific recommendation letters (e.g. the adviser may compare the the student explicitly with other students).  Dr. Sam prefers to write letters that he knows students cannot view. If your program does not use confidential letters (e.g. if Dr. Sam sends you the recommendation letter), please note that the letter will need to be modified for this shortcoming.
 
-## *Funding*
-
-Dr. Sam's current funding is from one of Khalifa University's CIRA internal research grants. 
 
 \newpage
 
 # ** **Agreement** **
 
-Date of printing: 
-```{r}
+FADS manual version:
+```{r,echo=F}
 Sys.Date()
 ```
 
-Please print and sign this final page indicating that you have read and agree to the principles laid out in this document.
+Please print and sign this final page indicating that you have read and agree to the principles laid out in this document, and that you are aware of the basic resources for getting started.
 
 \vspace{1cm}
 
-Sign and Print Name:  ________________________________
+Print Name:  ________________________________
 
-Document version: 
+\vspace{1cm}
+
+Sign Name: _________________________________
+
+\vspace{1cm}
+
+Date of Signing:  _____________________________
