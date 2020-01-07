@@ -1,6 +1,7 @@
 ---
 title: "*The FADS manual*"
 author: "Dr. Samuel Feng"
+date: "`r Sys.Date()`"
 output:
   html_document:
     df_print: paged
@@ -17,34 +18,31 @@ This manual is modeled after [Mariam Aly's lab manual](https://github.com/alylab
 
 ## **All members**
 
-Applied mathematicians often deal with frustrations. From many angles. You'll be one figure away from a paper for months. It might seem like nobody else in the world (even me) understands the struggles of your work. At the same time, our research can be one of the most fulfilling activities you'll ever do.
+Applied mathematicians deal with many flavors of frustration. You'll be one figure away from a paper for months. It might seem like nobody else in the world (even me) understands the struggles of your work. On the other hand, research can be one of the most fulfilling activities you'll ever do.
 
 ### *One principle to rule them all*
 
-Team FADS wants everyone to have a positive, supportive, hostility-free, challenging, and rewarding environment. To this end, there is one main rule:
+FADS should foster a positive, supportive, hostility-free, challenging, and rewarding environment. To this end, there is one main rule:
 
- - **Work with integrity.** We all want to publish and do amazing things, but this is worthless if accomplished via plagiarism, data tampering, faking data, omitting results, fudging results, or any other unethical means. Science and mathematics are about discovering truth, and mathematical scientists are held to an especially high standard. FADS gives no second chances here. Any academic misconduct or unethical behavior will result in immediate termination from FADS and escalation to the relevant authorities. 
+ - **Work with integrity.** We all want to publish and do amazing things, but this is worthless if accomplished via plagiarism, data tampering, faking data, omitting results, fudging results, stealing from others, putting down others, or any other unethical means. Science and mathematics are about discovering truth, and mathematical scientists are held to an especially high standard. FADS gives no second chances here. Any academic misconduct or unethical behavior will result in immediate termination from FADS and escalation to the relevant authorities. 
 
 ### *Other major principles*
 
-After this rule come a set of important rules for all FADS members:
+After this rule come a set of important rules for all FADS members, especially Dr. Sam:
 
  - **Work passionately.** Work on what you are passionate about, or at least work on developing that passion. 
- - **Shine.** Too many KU students want to suppress themselves (e.g. "I'm not good enough" or "My work will bring others down"). This is self-condemnation, not humility. Be proud of your work (some boasting is OK).
+ - **Celebrate your own success.** Too many KU students want to suppress themselves (e.g. "I'm not good enough" or "My work will bring others down"). This is self-condemnation, not humility. Be proud of your work (some boasting is OK). Celebrate your achievements, especially the small ones.  Tell me (or someone else) what you accomplished in the past 30 minutes.
  - **Celebrate each others' success.** Don't be jealous when someone else is proud of their work, but be proud that they are proud! We are not in competition with each other, and one member's success is the group's success.
- - **Don't rush, work carefully.** Dr. Sam struggles with this. Good science/mathematics/statistics requires *careful* progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. Mistakes are ok, except those due to rushing and carelessness. This usually means to *not put things off until the last minute*.
+ - **Don't rush, work carefully.** Good science/mathematics/statistics requires *careful* progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. Mistakes are OK, except those due to rushing and carelessness. This usually means to *not put things off until the last minute*. Dr. Sam especially struggles with this. 
  - **Own your mistakes and quickly seek help.** If you make a mistake, immediately alert anyone who could be affected (collaborators and Dr. Sam). This is especially important if we are already writing the paper or are close to a project deadline. We'll correct the mistake, and the work moves on.
  - **Acknowledge knowledge gaps.** If you don't know something, ask! Some of the worst situations come from a student pretending to know something they don't. Nobody's education is perfect, and the vast majority of what you learn in formal education is re-learned during the research process. Also check the FADS wiki for FAQ and relevant resources.
  - **Support each other.** Listen to someone vent. Ask someone to look at your code. Research is collaborative, not competitive.
- - **Respect your fellow FADS team members.** Everyone has strengths and weaknesses. Respect their culture, religion, and habits. They may need you to be quiet.Sarcasm, pranks, making fun, and "playful banter" are usually not a good thing (there are much better ways to enjoy humor with each other).
- - **Do not hide tension or hostility.** Something must be done immediately. Intellectual research cannot thrive in the presence of disrespect and rudeness. This won't always result in a "happy solution for everyone" but it is preferable to bullying or seething.
+ - **Respect your fellow FADS team members.** Everyone has strengths and weaknesses. Respect others' culture, religion, and habits. They may need you to be quiet. Sarcasm, pranks, making fun, and "playful banter" are usually not a good thing (there are much better ways to enjoy humor with each other).
+ - **Do not hide tension or hostility.** If two or more FADS members hiding hostile towards each other, something must be done immediately. Intellectual research cannot thrive in the presence of disrespect and rudeness. This won't always result in a "happy solution for everyone" but it is preferable to bullying or seething.
  - **Tell Sam issues you have with him.** The previous point applies especially towards Dr. Sam. If I am mistreating you or being rude to you, let me know, and I will need to get better.
  - **Read the scientific literature.** When you start I'll try to have all members reading at least one paper, but eventually you'll want to keep up to date yourself.
- - **Take care of your life outside of work.** 
+ - **Take care of your life outside of work.** We all know our research isn't our entire life (although it may feel like it). Take care of yourself and your family, especially your physical needs. Yes, that means get some exercise!
  
-### *Smaller things*
-- Full time members (not undergrads during courses) should be accessible on Slack (see below) on Khalifa University working days between 9am and 5pm. That means excluding weekends and holidays.
-- Full time members should be physically present on campus (i.e. available for meeting) on KU working days between accessible on Slack (see below) on Khalifa University working days between 9am and 5pm.
 
 ## **Samuel Feng (Principal Investigator)**
 
@@ -55,7 +53,7 @@ In addition to the above, I promise to:
  - **Be available.** I should be reachable during working hours, and I will not hide when I am or am not reachable. This availability may be over Slack, email, or in-person.
  - **Provide motivation/context for your work.** I will always do my best to answer "Why are we doing this?" It should be very rare that I answer with "because I say so."
  - **Write for you.** This includes writing formal letters of recommendation for internships/graduate school, or email recommendations to potential employers. I will be willing to put in writing why I have chosen to work with you.
- - **Promote your work.** I will try to promote your work among at talks, conferences, and in discussions with colleauges.
+ - **Promote your work.** I will promote your work throughout my professional network including at conferences and in discussions with colleagues.
  - **See your bigger picture.** I will understand that not all of you want to pursue careers in academia (nor should you), and I will try to understand where you want to go in life and how your time in FADS will help you get there. 
  
 
@@ -63,10 +61,10 @@ In addition to the above, I promise to:
 
 In addition to the above ("All members"), you are expected to:
 
-- **Work on your own research project**. You'll develop this with Sam's guidance over your first few months in FADS.
+- **Work on your own research project**. You'll develop this with Dr. Sams guidance over your first few months in FADS.
 - **Maintain FADS workstations.** This means keeping the software up-to-date, fixing any system crashes, making sure users have accounts, and ensuring appropriate backups are made. 
 - **Maintain FADS OSF.** Adding FADS members and keeping contributors organized. Aid other FADS members in uploading their work to OSF.
-- **Work "regular" hours.** More than other FADS members, your regular presence and availability is essential in case something is wrong (e.g. the rstudio server breaks).
+- **Work "regular" hours.** More than other FADS members, your regular presence and availability is essential in case something is wrong (e.g. the rstudio server breaks). This means 9am to 5pm, with one additional hour of work per day outside this period. If you take an hour for lunch, this translates to roughly 40 hours of work per week.
 - **Let me know when you are gone.** It is encouraged to take days off, just let me know through the ADERP Leave Management system. If you are sick, submit the leave request after you are well. We do need to use the ADERP system because that is how HR tracks everything. For help on how to submit a request, see the FADS Wiki FAQ. If you are taking an extended break (3 or more days), please submit the ADERP request at least a week in advance (preferably a month in advance) so we can plan for your absence.
 
 
@@ -84,18 +82,48 @@ Most likely you are doing your senior MATH research project with me. In addition
  - If you notice someone being harassed (or are harassed yourself), tell Sam immediately. If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).
  - Only take photos or videos of other members with their explicit knowledge and consent. This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, with worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others' privacy.
 
-# Communication and FADS resources
+# **Communication and FADS resources**
 
-## Email
+## *Email*
 This is always the most direct, and most formal, way to contact me. But the fastest is slack (below)
 
-## Slack (and Workast)
-[Slack](https://fads-hq.slack.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  I suggest you install the smartphone app, as well as have the appropriate setup on your computer.  Workast is an app inside Slack that allows us to manage tasks among the team (this is used only for full-time FADS members).
+## *Slack*
+[Slack](https://fads-hq.slack.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  Dr. Sam suggests you install the smartphone app, as well as have the appropriate setup on your computer. 
 
-## Wiki
+## *Trello*
+There is a good chance I will use Trello as a means of delegating you tasks and tracking your progress.
 
-## GitHub
+## *Wiki*
 
-# Other policies
+We try to keep this up to date on OSF. It contains lots of important information and answers to common questions. You are encouraged to contribute to this for the sake of future group members.
 
-# Funding
+# **Other policies**
+
+## *Recommendation Letters*
+
+Recommendation letters tend to be important for moving on in your career. If you have joined FADS, you can count on Dr. Sam writing you a recommendation letter. More generally, if you have known Dr. Sam for a year (e.g. 2 courses), he will probably write for you.
+
+If you need a letter, message Dr. Sam as soon as possible with the deadline, your CV, and any relevant instructions for the content of the letter. He typically needs *2 weeks notice* (or more during break times) to fit a recommendation letter writing into his schedule. If less than 2 weeks is given, then Dr. Sam may ask you to draft of your own recommendation letter, which he will then format, modify based on his experience with you, make more glamorous (people are much too humble about themselves), and edit to add anything left out. 
+
+*Recommendation letter confidentiality.*  In the USA, students typically cannot view their own letters of recommendation. This allows the letter author to write more openly and honestly about the student, which also allows for stronger, more specific recommendation letters (e.g. the adviser may compare the the student explicitly with other students).  Dr. Sam prefers to write letters that he knows students cannot view. If your program does not use confidential letters (e.g. if Dr. Sam sends you the recommendation letter), please note that the letter will need to be modified for this shortcoming.
+
+## *Funding*
+
+Dr. Sam's current funding is from one of Khalifa University's CIRA internal research grants. 
+
+\newpage
+
+# ** **Agreement** **
+
+Date of printing: 
+```{r}
+Sys.Date()
+```
+
+Please print and sign this final page indicating that you have read and agree to the principles laid out in this document.
+
+\vspace{1cm}
+
+Sign and Print Name:  ________________________________
+
+Document version: 
