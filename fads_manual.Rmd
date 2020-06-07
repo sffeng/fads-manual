@@ -3,9 +3,9 @@ title: "*The FADS manual*"
 author: "Dr. Samuel Feng"
 date: "Version: `r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I'm Dr. Samuel Feng, and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your academic journey.
@@ -42,7 +42,7 @@ After this rule come a set of important rules for all FADS members, especially D
  - **Tell Sam issues you have with him.** The previous point applies especially towards Dr. Sam. If I am mistreating you or being rude to you, let me know, and I will need to get better.
  - **Read the scientific literature.** When you start I'll try to have all members reading at least one paper, but eventually you'll want to keep up to date yourself.
  - **Take care of your life outside of work.** We all know our research isn't our entire life (although it may feel like it). Take care of yourself and your family, especially your physical needs. Yes, that means get some exercise!
- 
+
 
 ## **Samuel Feng (Principal Investigator)**
 
@@ -50,14 +50,14 @@ In addition to the above, I promise to:
 
  - **Support you.** This means caring for your mental, physical, financial, and emotional well being. 
  - **Give you feedback on a timely basis.** This includes feedback on project ideas, conference papers/posters, talks, manuscripts, etc.
- - **Be available.** I should be reachable during working hours, and I will not hide when I am or am not reachable. This availability may be over Slack, email, or in-person.
+ - **Be available.** I should be reachable during working hours, and I will not hide when I am or am not reachable. This availability may be over Teams, email, or in-person.
  - **Provide motivation/context for your work.** I will always do my best to answer "Why are we doing this?" It should be very rare that I answer with "because I say so."
  - **Write for you.** This includes writing formal letters of recommendation for internships/graduate school, or email recommendations to potential employers. I will be willing to put in writing why I have chosen to work with you.
  - **Promote your work.** I will promote your work throughout my professional network including at conferences and in discussions with colleagues.
  - **See your bigger picture.** I will understand that not all of you want to pursue careers in academia (nor should you), and I will try to understand where you want to go in life and how your time in FADS will help you get there. 
  
 
-## **Research Assistants**
+## **Research Assistants and Assocites**
 
 In addition to the above ("All members"), you are expected to:
 
@@ -77,6 +77,14 @@ Most likely you are doing your senior MATH research project with me. In addition
 - **Follow the official MATH Senior Research Project procedures.** I won't write these here since they are always changing, but you are expected to fulfill all of the MATH Senior Research Project requirements, including the 1st semester report, final report, and final presentation.
 - **Work full time during the summer.** This only applies if you are doing internship with me. This will be full time, on-campus working hours, to be clearly specified with me on a case-by-case basis. 
 
+
+## **Undergraduate Summer Interns**
+
+If you are doing senior MATH research project with me, see the previous section. If you are with me just for the summer, then in addition to the above ("All members"), you will also be expected to:
+
+- **Work in collaboration and support of another FADS member.** This will likely be a graduate student or a MATH senior research project student.  Because you're only here for a few weeks, we need to be sure your contributions are useful to FADS even after you leave.
+- **Work full time.** This will be discussed directly, but usually means putting in hours corresponding to a full time job
+
 # **Code of conduct**
 
  - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).
@@ -85,10 +93,10 @@ Most likely you are doing your senior MATH research project with me. In addition
 # **Communication and FADS resources**
 
 ## *Email*
-This is always the most direct, and most formal, way to contact me. But the fastest is slack (below)
+This is always the most direct, and most formal, way to contact me. But the fastest is TEAMS (below)
 
-## *Slack*
-[Slack](https://fads-hq.slack.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  Dr. Sam suggests you install the smartphone app, as well as have the appropriate setup on your computer. 
+## *Microsoft Teams*
+[MS Teams](https://teams.microsoft.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  Dr. Sam suggests you install the smartphone app, as well as have the appropriate setup on your computer. 
 
 ## *Trello*
 There is a good chance I will use Trello as a means of delegating you tasks and tracking your progress.
