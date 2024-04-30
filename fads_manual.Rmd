@@ -3,16 +3,16 @@ title: "*The FADS manual*"
 author: "Samuel F. Feng"
 date: "Version: `r Sys.Date()`"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
-Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Khalifa University of Science and Technology (Abu Dhabi, United Arab Emirates). I'm Sam (Dr. Samuel Feng, people usually call me "Dr. Sam" or just "Sam"), and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your personal journey.
+Welcome to the FADS (Feng Applied Data Science) research group in the Mathematics Department at Sorbonne University Abu Dhabi (Abu Dhabi, United Arab Emirates). I'm Sam (Dr. Samuel Feng, people usually call me "Dr. Sam" or just "Sam"), and this manual provides expectations and important information for anyone getting started with my research group. I hope it saves you some frustration and pain wherever you may be in your personal journey.
 
 This manual is modeled after Mariam Aly's lab manual (https://github.com/alylab/labmanual) after I read this inspiring article: https://doi.org/10.1038/d41586-018-06167-w. 
 
-*Starting Jan 31, 2020, all FADS members need to print, scan and send Dr. Sam a signed copy of the last page of this agreement.*
+*All FADS members need to print, scan and send Dr. Sam a signed copy of the last page of this agreement.*
 
 # **FADS principles, expecations, and responsibilities**
 
@@ -31,6 +31,7 @@ FADS should foster a positive, supportive, hostility-free, challenging, and rewa
 After this rule come a set of important rules for all FADS members, especially Dr. Sam:
 
  - **Work passionately.** Work on what you are passionate about, or at least work on developing that passion. 
+ - **Work vigilantly.** Expect to work until you are tired, and often try paths that seem difficult or tiresome, as very often these are the paths to success! 
  - **Celebrate your own success.** Too many students suppress themselves (e.g. "I'm not good enough" or "I'm bringing others down"). This is self-condemnation, not humility. Be proud of your work (some boasting is OK). Celebrate your achievements, especially the small ones.  Tell me (or someone else) what you accomplished in the past 30 minutes.
  - **Celebrate each others' success.** Don't be jealous when someone else is proud of their work, but be proud that they are proud! We are not in competition with each other, and one member's success is the group's success.
  - **Don't rush, work carefully.** Good science/mathematics/statistics requires *careful* progress. Think about every step. Double and triple check before showing others. Think about extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. If you can produce a desired result in 10 minutes, take another 15 minutes to think of additional ways to double check your work. Mistakes are OK, except those due to rushing and carelessness. This usually means to *not put things off until the last minute*. Dr. Sam especially struggles with this. 
@@ -76,7 +77,7 @@ In addition to the above ("All members"), you will also be expected to:
 - **Work independently on your own resesarch project.** This means taking the initiative and following questions yourself and seeking knowledge yourself as your project moves along.
 - **Assist other members in FADS procedures.** This means helping others with the procedures for Senior Research Project, creating an OSF account, etc.  This can also be done alongside the RAs.
 - **Follow the official MATH Senior Research Project procedures.** I won't write these here since they are always changing, but you are expected to fulfill all of the MATH Senior Research Project requirements, including the 1st semester report, final report, and final presentation.
-- **Work full time during the summer.** This only applies if you are doing internship with me. This will be full time, on-campus working hours, to be clearly specified with me on a case-by-case basis. 
+- **Work full time during the summer.** This only applies if you are doing internship with me. This will be full time,  to be clearly specified with me on a case-by-case basis. 
 
 
 ## **Undergraduate Summer Interns**
@@ -88,7 +89,7 @@ If you are doing senior MATH research project with me, see the previous section.
 
 # **Code of conduct**
 
- - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Associate Dean or Dean).
+ - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Vice Chancellor).
  - **Only take photos or videos of other members with their explicit knowledge and consent.** This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, without worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others' privacy.
 
 # **Communication and FADS resources**
@@ -97,10 +98,12 @@ If you are doing senior MATH research project with me, see the previous section.
 This is always the most direct, and most formal, way to contact me. But the fastest is MS Teams (below).
 
 ## *Microsoft Teams (MS Teams)*
-[MS Teams](https://teams.microsoft.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  Dr. Sam suggests you install the smartphone app, as well as have the appropriate setup on your computer. Contact the RA or someone else in FADS to be sure you are added here ASAP.
+[MS Teams](https://teams.microsoft.com) is the primary means of communication between FADS members. It is also the fastest way to contact me and get feedback.  Dr. Sam suggests you install the smartphone app, as well as have the appropriate setup on your computer. 
 
-## *Trello*
-There is a good chance I will use Trello as a means of delegating you tasks and tracking your progress.
+<!-- Contact the RA or someone else in FADS to be sure you are added here ASAP. -->
+
+<!-- ## *Trello* -->
+<!-- There is a good chance I will use Trello as a means of delegating you tasks and tracking your progress. -->
 
 ## *OSF Wiki*
 
