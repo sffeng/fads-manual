@@ -8,9 +8,12 @@ output:
   pdf_document: default
 ---
 
-Welcome to the FADS (Feng Applied Data Science) research group  at Sorbonne University Abu Dhabi. I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
+Welcome to the FADS (Feng AI Decision Systems[^1]) research group  at Sorbonne University Abu Dhabi. I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
 
 This manual is patterned after a former collaborator Mariam Aly's lab manual (https://github.com/alylab/labmanual), after this inspiring article: https://doi.org/10.1038/d41586-018-06167-w. 
+
+[^1]: FADS Was renamed from Feng Applied Data Science to Feng Artificial intelligence Decision Systems, following the intended theme of the acronym.
+
 
 *All FADS members need to print, scan and send Dr. Sam a signed copy of the last page of this agreement.*
 
