@@ -3,14 +3,16 @@ title: "*The FADS manual*"
 author: "Samuel F. Feng"
 date: "Version: `r Sys.Date()`"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
-Welcome to the FADS (Feng AI Decision Systems[^1]) research group  at Sorbonne University Abu Dhabi. I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
+Welcome to the FADS (**F**eng **A**rtificial intelligence **D**ecision **S**ystems[^1]) research group  at Sorbonne University Abu Dhabi. We are a research group that bridges mathematics, AI, and systems design in order to build and augment interpretable, process-aware AI tools for real-world decision-making.
 
-This manual is patterned after a former collaborator Mariam Aly's lab manual (https://github.com/alylab/labmanual), after this inspiring article: https://doi.org/10.1038/d41586-018-06167-w. 
+I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
+
+This manual is inspired by an article (https://doi.org/10.1038/d41586-018-06167-w) written by my former collaborator Mariam Aly.  
 
 [^1]: FADS Was renamed from Feng Applied Data Science to Feng Artificial intelligence Decision Systems, following the intended theme of the acronym.
 
@@ -55,7 +57,7 @@ Mathematical/Statistical/Data/AI scientists deal with many flavors of frustratio
 
 - *Research Work* : This is the direct activity that accomplishes publishable research results. This is time spent at your computer or pen/pencil in hand, trying to prove something, writing your paper, coding something, building something.
 - *Research Reading* : This is the core support activity for research that involves reading and learning in order for you to better accomplish your research work. You will usually have a long reading list of articles and/or books to read.
-- *Non-Research Work* : This is all of the other important stuff you need to do. This includes teaching, administrative activities (e.g. filling out forms), and even support research activities such as applying for access to datasets, updating Dr. Sam, writing emails, and discussing/presenting your research with others.
+- *Non-Research Work* : This is all of the other important stuff you need to do. This includes teaching, administrative activities (e.g. filling out forms), and even support research activities such as applying for access to datasets, filling in holes in your background (e.g. things you should know from previous degree(s)), updating Dr. Sam, writing emails, and discussing/presenting your research with others.
 
 
 ### **For Dr. Sam**
