@@ -3,12 +3,12 @@ title: "*The FADS manual*"
 author: "Samuel F. Feng"
 date: "Version: `r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
-Welcome to the FADS (**F**eng **A**rtificial intelligence **D**ecision **S**ystems[^1]) research group  at Sorbonne University Abu Dhabi. We are a research group that bridges mathematics, AI, and systems design in order to build and augment interpretable, process-aware AI tools for real-world decision-making.
+Welcome to the FADS (**F**eng **A**rtificial intelligence **D**ecision **S**ystems[^1]) research group  at Sorbonne University Abu Dhabi. We are a research group that bridges mathematics, cognitive science, AI, and systems design in order to build and augment interpretable, process-aware AI tools for real-world decision-making.
 
 I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
 
