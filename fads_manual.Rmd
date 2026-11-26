@@ -8,13 +8,15 @@ output:
   pdf_document: default
 ---
 
-Welcome to the FADS (**F**eng **A**rtificial intelligence **D**ecision **S**ystems[^1]) research group  at Sorbonne University Abu Dhabi. We are a research group that bridges mathematics, cognitive science, AI, and systems design in order to build and augment interpretable, process-aware AI tools for real-world decision-making.
+Welcome to the FADS (**F**oundations of **A**pplied **D**ecision **S**cience[^1]) research group at [Sorbonne University Abu Dhabi (SUAD)](https://sorbonne.ae), part of the Sorbonne Abu Dhabi For Innovation and Research Institute (SAFIR). We study how decisions are made under uncertainty, by people and by machines, and use that work to build AI models that are interpretable, or whose performance and confidence humans can validate, for real-world decisions in settings such as medicine and power systems.
 
 I'm Dr. Samuel F. Feng (students call me "Dr. Sam" and colleagues call me "Sam"). This document provides expectations and research principles for anyone getting started with my research group. I tend to introduce this as early as possible to save frustration and confusion.
 
+This manual applies to everyone who works with me and has me as their primary advisor, interns included. FADS sits inside SAFIR, so the SAFIR Charter and SUAD rules also apply to you and take precedence over anything written here.
+
 This manual is inspired by an article (https://doi.org/10.1038/d41586-018-06167-w) written by my former collaborator Mariam Aly.  
 
-[^1]: FADS Was renamed from Feng Applied Data Science to Feng Artificial intelligence Decision Systems, following the intended theme of the acronym.
+[^1]: FADS was originally named Feng Applied Data Science in 2019. It changed to Feng Artificial intelligence Decision Systems in May 2025, and then to Foundations of Applied Decision Science in November 2026, following the intended theme of the acronym.
 
 
 *All FADS members need to print, scan and send Dr. Sam a signed copy of the last page of this agreement.*
@@ -31,7 +33,14 @@ Mathematical/Statistical/Data/AI scientists deal with many flavors of frustratio
 
 #### **The most important principle**
 
- - **Work with integrity.** We all want to publish groundbreaking papers, establish world-changing companies, and discover new truths, but this is worthless if accomplished via plagiarism, data tampering, faking data, omitting results, fudging results, stealing from others, putting down others, or any other unethical means. Science and mathematics are about discovering truth, and mathematical/data scientists are held to an especially high standard. FADS gives no second chances here. Any academic misconduct or unethical behavior will result in immediate termination from FADS and escalation to the relevant authorities. 
+ - **Work with integrity.** We all want to publish groundbreaking papers, establish world-changing companies, and discover new truths, but this is worthless if accomplished via plagiarism, data tampering, faking data, omitting results, fudging results, stealing from others, putting down others, or any other unethical means. Science and mathematics are about discovering truth, and mathematical/data scientists are held to an especially high standard. FADS gives no second chances here. Any academic misconduct or unethical behavior will result in immediate termination from FADS and escalation to the relevant authorities.
+
+    **AI usage guidelines.**
+
+    1. **Always disclose exactly what you used AI for, and what you did not.**
+    1. **You are solely responsible for anything with your name on it, without appealing to AI.** (Machine confidence and good intentions are not enough.)
+    1. **Disclose, and get permission, before using AI on anything that is not yours.** Pasting someone else's work (manuscripts under review, a collaborator's data, unpublished research) into an AI chatbot or tool risks exposing it, because AI companies may keep or reuse what you give them.
+    1. **Understand everything you say, and be able to defend it under questioning without using AI.** This is a stronger version of the second guideline, and it is something I require specifically in FADS. In the rare case that you cannot, say so explicitly and get my approval.
 
 <!-- ### *Other major principles* -->
 
@@ -40,12 +49,12 @@ Mathematical/Statistical/Data/AI scientists deal with many flavors of frustratio
 
  1. **Work with focus and drive.** Consistently put in effort and sustain productivity over time. Learn to take the initiative whenever possible instead of awaiting instruction. Seek to apply your effort towards meaningful goals, avoiding distractions.
  1. **Celebrate FADS success.** Too many students suppress themselves (e.g. "I'm not good enough"). This is self-condemnation, not humility. Be proud of your work (some boasting is OK). Celebrate your achievements, even the small ones.  Tell someone what you accomplished in the past 30 minutes. Be proud (not jealous) when someone else is proud of their work. 
- 1. **Work carefully (don't rush).** Good science/mathematics/statistics requires *careful* progress. Think about every step. Triple check before showing others. Consider about extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. If you produce a desired result in 10 minutes, take another 10 minutes to think of separate ways to double check your work. Mistakes are OK, except those due to rushing and carelessness. This usually means to *not put things off until the last minute*. Dr. Sam especially struggles with this. 
+ 1. **Work carefully (don't rush).** Good science/mathematics/statistics requires *careful* progress. Think about every step. Triple check before showing others. Consider extreme and simple cases. Ask others to look at code snippets that aren't behaving properly. If you produce a desired result in 10 minutes, take another 10 minutes to think of separate ways to double check your work. Mistakes are OK, except those due to rushing and carelessness. This usually means to *not put things off until the last minute*. Dr. Sam especially struggles with this. 
  1. **Own your mistakes and quickly seek help.** If you make a mistake (we all do), immediately alert anyone who could be affected (collaborators and Dr. Sam). This is especially important if we are already writing the paper or are close to a project deadline. We'll correct the mistake, and the work moves on. The most important result of a mistake is to answer: how can we prevent this from happening again? If a FADS member makes a major mistake, Dr. Sam probably put you in an unfair situation.
  1. **Acknowledge and fix knowledge gaps.** My worst student situations have come from students pretending to know something they don't. Nobody's education is perfect, and the vast majority of what you learn in class is re-learned during the research process. If you don't know something, ask!  Also check the FADS wiki.
  1. **Actively listen.** Listen to someone vent. Make someone feel heard. 
  1. **Ask for help.** Ask someone to look at your code. Research is collaborative, not competitive.
- 1. **Expose tension and hostility.** If hostility exists within FADS, something must be done. Hostility should be voiced, not squashed. Intellectual research cannot thrive in a toxic environment. Sarcasm, pranks, and "playful banter" are usually not a good thing (there are better ways to enjoy humor with each other). This applied especially towards Dr. Sam. If I am mistreating you, let me (or my superiors) know.
+ 1. **Expose tension and hostility.** If hostility exists within FADS, something must be done. Hostility should be voiced, not squashed. Intellectual research cannot thrive in a toxic environment. Sarcasm, pranks, and "playful banter" are usually not a good thing (there are better ways to enjoy humor with each other). This applies especially to Dr. Sam. If I am mistreating you, let me (or my superiors) know.
  1. **Inform FADS of absence/leave.** If you take time off, let FADS know so they don't waste time looking for you. If you are sick or out for a day or two, let FADS know as soon as reasonably possible. If you are taking an extended break (3+ days), let FADS know at least a week in advance (preferably two). Simply either inform Dr. Sam or post in the General MS Teams channel.
  1. **Take care of yourself.** Research isn't our entire life (although it may feel like it). Take care of yourself and your family, especially your physical needs. Yes, that means eat healthy and get some exercise!
 
@@ -64,11 +73,11 @@ Mathematical/Statistical/Data/AI scientists deal with many flavors of frustratio
 
 In addition to the above, I promise to:
 
- - **Support your**  mental, physical, financial, and emotional well being.  This also means providing materials for research reading, and helping you get unstuck during your research work, as I deem appropriate.
+ - **Support your** mental, physical, financial, and emotional well-being. This also means providing materials for research reading, and helping you get unstuck during your research work, as I deem appropriate.
   - **Be available** during working hours. This availability may be over Teams, email, or in-person. This includes giving feedback on a timely basis on project ideas, conference papers, talks, etc.
  - **Assign appropriate duties** ensuring that students and staff are placed in roles and situations that facilitate their success.
  - **Motivate your work/project.** When you ask "Why are we doing this?" it should be very rare that I answer with "because I say so."
- - **Write recommendations letters** including formal letters of recommendation for internships/graduate school and email recommendations to potential employers. 
+ - **Write recommendation letters** including formal letters of recommendation for internships/graduate school and email recommendations to potential employers. 
  - **Promote your work** throughout my professional network including at conferences and in discussions with colleagues.
  - **See your bigger picture.** I will understand that not all of you want to pursue careers in academia (nor should you), and I will try to understand where you want to go in life and how your time in FADS will help you get there. 
  
@@ -76,7 +85,7 @@ In addition to the above, I promise to:
 ### **For Postdocs, PhD Students, Research Interns**
 In addition to the above ("All members"), you are expected to:
 
-- **Work full research days.** I define a full research day as a minimum of 5 research hours: 3+ hours of research work and 2+ hours on research reading, according to the definitions above. Preferably these happen at the start of your day, when you are sharpest and best rested. I've never met any phd student who did this consistently for 3 years and didn't have a solid thesis. I personally break these 3+2 hours up using pomodoro technique.
+- **Work full research days.** I define a full research day as a minimum of 5 research hours: 3+ hours of research work and 2+ hours on research reading, according to the definitions above. Preferably these happen at the start of your day, when you are sharpest and best rested. I've never met any PhD student who did this consistently for 3 years and didn't have a solid thesis. I personally break these 3+2 hours up using pomodoro technique.
 - **Work full research weeks.** This means working 5 days a week, unless taking time off for holidays or other reasons.
 - **Keep a daily update log.** At the end of every research day, write a daily update (see FADS wiki) on both your reading and working progress, along with what to do the next day. It should take you about 3-5 minutes to write.
 - **Attend required meetings** including, at a minimum, your weekly meeting with Dr. Sam, and perhaps more as is relevant to your project (e.g. seminars).
@@ -87,7 +96,7 @@ In addition to the above ("All members"), you are expected to:
 
 In addition to the above ("All members"), you are expected to:
 
-- **Work "regular" hours.** More than other FADS members, your regular presence and availability is essential in case something is wrong (e.g. the rstudio server breaks). This means 9am to 5pm, with one additional hour of work per day outside this period. If you take an hour for lunch, this translates to roughly 40 hours of work per week.
+- **Work "regular" hours.** More than other FADS members, your regular presence and availability is essential in case something goes wrong. This means 9am to 5pm, with one additional hour of work per day outside this period. If you take an hour for lunch, this translates to roughly 40 hours of work per week.
 - **Work on your research project with updates.** See the definitions for Postdocs/PhD students above, but you are not held as strict to these requirements. In general you should spend your time on research, unless you have other assigned duties. Your research days should end with a daily update.
 
 <!-- - **Maintain FADS workstations.** This means keeping the software up-to-date, fixing any system crashes, making sure users have accounts, and ensuring appropriate backups are made.  -->
@@ -103,12 +112,12 @@ In addition to the above ("All members"), you are expected to:
 <!-- - **Work full time during the summer.** This only applies if you are doing internship with me. This will be full time,  to be clearly specified with me on a case-by-case basis.  -->
 
 
-### **For Undergraduate Interns**
+<!-- ### **For Undergraduate Interns** -->
 
-In addition to the above ("All members"), you will also be expected to:
+<!-- In addition to the above ("All members"), you will also be expected to: -->
 
-- **Work in collaboration and support of another FADS member.** This will likely be a graduate student or a MATH senior research project student.  Because you're only here for a few weeks, we need to be sure your contributions are useful to FADS even after you leave.
-- **Work full time.** This will be discussed directly, but usually means putting in 5 research hours/day (3+2 like phd students).
+<!-- - **Work in collaboration and support of another FADS member.** This will likely be a graduate student or a MATH senior research project student.  Because you're only here for a few weeks, we need to be sure your contributions are useful to FADS even after you leave. -->
+<!-- - **Work full time.** This will be discussed directly, but usually means putting in 5 research hours/day (3+2 like PhD students). -->
 
 
 # **Communication and FADS resources**
@@ -124,7 +133,7 @@ In addition to the above ("All members"), you will also be expected to:
 
 ### *Code of conduct*
 
- - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the MATH department chair or another trusted faculty member on campus (e.g. Vice Chancellor).
+ - **If you notice someone being harassed (or are harassed yourself), tell Sam immediately.** If Sam is the cause of your concern, reach out to the Head of the Department of Mathematics and Physics or another trusted faculty member on campus (e.g. the Vice-Chancellor).
  - **Only take photos or videos of other members with their explicit knowledge and consent.** 
  <!-- This is especially pertinent to photos/videos you intend to post to social media. We want to foster and environment where everyone feels safe to be who they are, take risks, and have fun, without worry or self-consciousness. If someone consents to being photographed, by all means go ahead! But respect others' privacy. -->
 
@@ -132,9 +141,9 @@ In addition to the above ("All members"), you will also be expected to:
 
 Recommendation letters tend to be important for moving on in your career. If you have joined FADS, you can count on Dr. Sam writing you a recommendation letter. More generally, if you have known Dr. Sam for a year (e.g. 2 courses), he will probably write for you.
 
-If you need a letter, message Dr. Sam as soon as possible with the deadline, your CV, and any relevant instructions for the content of the letter. He typically needs *2 weeks notice* (or more during break times) to write a recommendation letter. If less than 2 weeks is given, then Dr. Sam may ask you to draft of your own recommendation letter, which he will then format, modify based on his experience with you, make more glamorous (people are much too humble about themselves), and edit to add anything left out. 
+If you need a letter, message Dr. Sam as soon as possible with the deadline, your CV, and any relevant instructions for the content of the letter. He typically needs *2 weeks notice* (or more during break times) to write a recommendation letter. If less than 2 weeks is given, then Dr. Sam may ask you to draft your own recommendation letter, which he will then format, modify based on his experience with you, make more glamorous (people are much too humble about themselves), and edit to add anything left out. 
 
-*Recommendation letter confidentiality.*  In the USA, students typically cannot view their own letters of recommendation. This allows the letter author to write more openly and honestly about the student, which also allows for stronger, more specific recommendation letters (e.g. the adviser may compare the the student explicitly with other students).  Dr. Sam prefers to write letters that he knows students cannot view. If your program does not use confidential letters (e.g. if Dr. Sam sends you the recommendation letter), please note that the letter will need to be modified for this shortcoming.
+*Recommendation letter confidentiality.*  In the USA, students typically cannot view their own letters of recommendation. This allows the letter author to write more openly and honestly about the student, which also allows for stronger, more specific recommendation letters (e.g. the adviser may compare the student explicitly with other students).  Dr. Sam prefers to write letters that he knows students cannot view. If your program does not use confidential letters (e.g. if Dr. Sam sends you the recommendation letter), please note that the letter will need to be modified for this shortcoming.
 
 
 \newpage
